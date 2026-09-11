@@ -124,20 +124,21 @@ const PRODUCTS = [
     image: "images/sudadera-amazon-essentials.jpg",
     link: "#",
     tag: "Menos de $500"
+  },
+  {
+    id: "jogger-002",
+    brand: "Libin",
+    name: "Pantalón ajustado con bolsillos",
+    gender: "hombre",
+    category: "joggers",
+    sections: ["home", "ofertas", "hombre"],
+    price: 789,
+    rating: 8.7,
+    fit: "Slim",
+    material: "Tela elástica",
+    opinion: "Cómodo y elástico, buena opción para uso casual o entrenamiento ligero.",
+    image: "images/jogger-libin.jpg",
+    link: "https://www.amazon.com.mx/dp/B0BQQSMVLH",
+    tag: ""
   }
-{
-  id: "jogger-002",
-  brand: "Libin",
-  name: "Pantalón ajustado con bolsillos",
-  gender: "hombre",
-  category: "joggers",
-  sections: ["home", "ofertas", "hombre"],
-  price: 789,
-  rating: 8.7,
-  fit: "Slim",
-  material: "Tela elástica",
-  opinion: "Cómodo y elástico, buena opción para uso casual o entrenamiento ligero.",
-  image: "images/jogger-libin.jpg",
-  link: "https://www.amazon.com.mx/dp/B0BQQSMVLH",
-  tag: ""
-},;
+];
